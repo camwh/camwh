@@ -1,7 +1,5 @@
 [![Code Statistics](https://github-readme-stats.vercel.app/api?username=cmrxnn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmrxnn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hey, I'm [@cmrxnn](https://github.com/cmrxnn).
 I'm a student & hobbyist software engineer working on FOSS projects, learning new languages and ensuring code quality and security.
 
