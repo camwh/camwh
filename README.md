@@ -14,3 +14,6 @@ I'm a student & hobbyist software engineer working on FOSS projects, learning ne
 ### Financer [cmrxnn/financer](https://github.com/cmrxnn/financer)
 - A simple program to calculate monthly expenses and finances.
 - Written in C# (~2mo experience).
+### Nebula [cmrxnn/nebula](https://github.com/cmrxnn/nebula)
+- An all-in-one billing solution, built with Laravel and Inertia (React).
+- Extremely simple and efficient experience to allow customers/business to go through payment processes much easier.
