@@ -1,6 +1,6 @@
-[![Code Statistics](https://github-readme-stats.vercel.app/api?username=camwh&count_private=true&theme=radical)](https://github.com/camwh)
+[![Code Statistics](https://github-readme-stats.vercel.app/api?username=cmrxnn&count_private=true&theme=radical)](https://github.com/cmrxnn)
 
-# Hey, I'm [@camwh](https://github.com/camwh).
+# Hey, I'm [@cmrxnn](https://github.com/cmrxnn).
 
 I'm a student & hobbyist software engineer working on FOSS projects, learning new languages and ensuring code quality and security.
 
