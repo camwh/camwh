@@ -1,4 +1,4 @@
-[![Code Statistics](https://github-readme-stats.vercel.app/api?username=cmrxnn&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Statistics](https://github-readme-stats.vercel.app/api?username=camwh&count_private=true&theme=radical)](https://github.com/camwh)
 
 # Hey, I'm [@camwh](https://github.com/camwh).
 
